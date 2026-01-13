@@ -5,6 +5,12 @@
 ### 💡 Tech, Business & Product Vision
 *Transformando linhas de código em soluções reais.*
 
+<div align="center">
+  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Strategy-7289DA?style=flat&logo=rocket&logoColor=white" alt="Focus Product" />
+  <img src="https://img.shields.io/badge/Coding-Python%20%26%20Next.js-2b2d31?style=flat&logo=visualstudiocode&logoColor=white" alt="Coding Tech" />
+  <img src="https://img.shields.io/badge/Vibe-PsyTrance%20%26%20Pagode-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Vibe" />
+</div>
+
 <br>
 
 <a href="https://www.linkedin.com/in/brunosntz" target="_blank">
@@ -63,7 +69,7 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 ### 📊 GitHub Stats
 <div align="center">
   <a href="https://github.com/brunosntz-zip">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunosntz-zip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunosntz-zip&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
   <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosntz-zip&layout=compact&theme=dracula&hide_border=true"/>
   </a>
 </div>
