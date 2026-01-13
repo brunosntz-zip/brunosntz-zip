@@ -8,7 +8,7 @@
 <div align="center">
   <img src="https://img.shields.io/badge/Focus-Product%20%26%20Strategy-7289DA?style=flat&logo=rocket&logoColor=white" alt="Focus Product" />
   <img src="https://img.shields.io/badge/Coding-Python%20%26%20Next.js-2b2d31?style=flat&logo=visualstudiocode&logoColor=white" alt="Coding Tech" />
-  <img src="https://img.shields.io/badge/Vibe-PsyTrance%20%26%20Pagode-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Vibe" />
+  <img src="https://img.shields.io/badge/Vibe-PsyTrance%20%26%20Reggae-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Vibe" />
 </div>
 
 <br>
@@ -80,4 +80,4 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 > *"High stakes, high rewards."*
 
 * 🃏 **Poker Player (Texas Hold'em):** Onde a matemática encontra a frieza. Estudando GTO e probabilidades para dominar a mesa e extrair mais valor.
-* 🎨 **Visual & Som:** Eclético nível *hard* (Travis Scott, Techno, PsyTrance e aquele Belo pra equilibrar).
+* 🎧 **Som:** Eclético! (Travis Scott, Techno, Reggae, PsyTrance e aquele Belo pra equilibrar).
