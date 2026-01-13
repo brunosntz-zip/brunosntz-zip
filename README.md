@@ -79,5 +79,5 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 ### ⚡ Off-Topic
 > *"High stakes, high rewards."*
 
-* 🃏 **Poker Player (Texas Hold'em):** Onde a matemática encontra a frieza. Estudando GTO e probabilidades para dominar a mesa e extrair mais valor.
-* 🎧 **Som:** Eclético! (Travis Scott, Techno, Reggae, PsyTrance e aquele Belo pra equilibrar).
+* 🃏 **Poker Player (Texas Hold'em):** Matemática vs frieza. Estudando GTO e probabilidades para dominar a mesa e extrair mais valor.
+* 🎧 **Som:** Reggaeton, Reggae, Techno, Psytrance e Pagode.
