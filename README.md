@@ -30,11 +30,11 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 
 ---
 
-### 🏆 O "00" (Flagship Project)
+### 🏆 O "Projeto 01" (Flagship Project)
 
 | 🍹 **FLUXE Digital Order Menu** |
 | :--- |
-| **O Futuro dos Bares.** Uma solução completa de cardápio e pedidos digitais projetada para otimizar o fluxo de atendimento. Não é só um app, é uma ferramenta de gestão de pedidos.<br><br>🛠️ *Techs: Python, Lógica de Negócio, Automação.* |
+| **O Futuro dos Bares.** Uma solução completa de cardápio e pedidos digitais projetada para otimizar o fluxo de atendimento. Não é só um app, é uma ferramenta híbrida de gestão de pedidos.<br><br>🛠️ *Techs: Python, Lógica de Negócio, Automação.* |
 
 ---
 
