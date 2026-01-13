@@ -52,7 +52,7 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind" />
+    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind,mysql" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,vscode,figma,ps,canva" />
   </a>
@@ -71,8 +71,7 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 ---
 
 ### ⚡ Off-Topic
-> *"Disciplina é liberdade."*
+> *"High stakes, high rewards."*
 
-* 🏋️ **Bodybuilding:** Construindo o shape com seriedade (Hipertrofia).
-* 🃏 **Poker:** Estudando Game Theory e probabilidades no Texas Hold'em.
-* 🎧 **Music:** Techno, Pagode e criando as melhores capas de playlist.
+* 🃏 **Poker Player (Texas Hold'em):** Onde a matemática encontra a frieza. Estudando GTO e probabilidades para dominar a mesa e extrair mais valor.
+* 🎨 **Visual & Som:** Eclético nível *hard* (Travis Scott, Techno, PsyTrance e aquele Belo pra equilibrar).
