@@ -67,11 +67,12 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 ---
 
 ### 📊 GitHub Stats
+
 <div align="center">
-  <a href="https://github.com/brunosntz-zip">
-  <img height="150" src="https://github-readme-stats.vercel.app/api?username=brunosntz-zip&show_icons=true&theme=dracula&include_all_commits=true&hide_border=true"/>
-  <img height="150" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosntz-zip&layout=compact&theme=dracula&hide_border=true"/>
-  </a>
+  <br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=brunosntz-zip&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=brunosntz-zip&layout=compact&theme=dracula"/>
 </div>
 
 ---
