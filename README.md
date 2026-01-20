@@ -58,11 +58,8 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind" />
-  </a>
-  <img width="48" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" alt="SQL" style="border-radius: 5px; margin: 5px;"/>
-  <br>
-  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind,postgres" />
+    <br>
     <img src="https://skillicons.dev/icons?i=git,vscode,figma,ps,canva" />
   </a>
 </div>
