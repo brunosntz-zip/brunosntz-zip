@@ -58,7 +58,7 @@ Não sou apenas um "fazedor de tarefas"; sou parceiro na construção da soluç�
 
 <div align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind,sql" />
+    <img src="https://skillicons.dev/icons?i=python,react,nextjs,ts,html,css,tailwind,postgres" />
     <br>
     <img src="https://skillicons.dev/icons?i=git,vscode,figma,ps,canva" />
   </a>
