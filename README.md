@@ -6,7 +6,7 @@
 *Transformando linhas de código em soluções reais.*
 
 <div align="center">
-  <img src="https://img.shields.io/badge/Focus-Product%20%26%20Strategy-7289DA?style=flat&logo=rocket&logoColor=white" alt="Focus Product" />
+  <img src="https://img.shields.io/badge/Focado-Produto%20%26%20Estratégia-7289DA?style=flat&logo=rocket&logoColor=white" alt="Focus Product" />
   <img src="https://img.shields.io/badge/Coding-Python%20%26%20Next.js-2b2d31?style=flat&logo=visualstudiocode&logoColor=white" alt="Coding Tech" />
   <img src="https://img.shields.io/badge/Vibe-PsyTrance%20%26%20Reggae-1DB954?style=flat&logo=spotify&logoColor=white" alt="Spotify Vibe" />
 </div>
